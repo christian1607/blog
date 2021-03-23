@@ -4,11 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Christian Altamirano, I'm from Peru.
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I love technology, and that's the reason why I've created this blog, to shared my personal experiencies with tools that I used in my work and my 
+free times.
+
+Suggestions are always welcomed!!
 
 ### Contact me
 
