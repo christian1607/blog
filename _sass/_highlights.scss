@@ -1,8 +1,8 @@
 
 .highlight {
-  background-color: #efefef;
+  background-color: #191111;
   padding: 7px 7px 7px 10px;
-  border: 1px solid #ddd;
+  //border: 1px solid #ddd;
   -moz-box-shadow: 3px 3px rgba(0,0,0,0.1);
   -webkit-box-shadow: 3px 3px rgba(0,0,0,0.1);
   box-shadow: 3px 3px rgba(0,0,0,0.1);
@@ -54,7 +54,7 @@ code {
 .highlight .ni { color: #CB4B16 } /* Name.Entity */
 .highlight .ne { color: #CB4B16 } /* Name.Exception */
 .highlight .nf { color: #268BD2 } /* Name.Function */
-.highlight .nl { color: #93A1A1 } /* Name.Label */
+.highlight .nl { color: #50b91b } /* Name.Label */
 .highlight .nn { color: #93A1A1 } /* Name.Namespace */
 .highlight .nx { color: #555 } /* Name.Other */
 .highlight .py { color: #93A1A1 } /* Name.Property */
