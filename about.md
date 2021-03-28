@@ -1,19 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-I'm Christian Altamirano, I'm from Peru.
-
+Cloud Infrastrucute Architech at everis, CNCF enthusiast, cloud application development, Cloud, Kubernetes, Docker, Istio, Envoy, OPA #blogger
 
 ### More Information
 
-I love technology, and that's the reason why I've created this blog, to shared my personal experiencies with tools that I used in my work and my 
-free times.
+I love technology, and that's the reason why I've created this blog, to shared my personal experiencies with tools that I used in my work and my free times.
 
 Suggestions are always welcomed!!
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
