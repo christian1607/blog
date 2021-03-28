@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Cloud Infrastrucute Architech at everis, CNCF enthusiast, cloud application development, Cloud, Kubernetes, Docker, Istio, Envoy, OPA #blogger
+Cloud Infrastructure Architech at everis, CNCF enthusiast, cloud application development, Cloud, Kubernetes, Docker, Istio, Envoy, OPA #blogger
 
 ### More Information
 
